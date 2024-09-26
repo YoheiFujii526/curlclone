@@ -1,0 +1,16 @@
+{
+  "name": "q",
+  "version": "1.0.0",
+  "main": "curlclone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "commander": "^12.1.0",
+    "fs": "^0.0.1-security"
+  }
+}
